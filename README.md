@@ -11,3 +11,11 @@ Just a little project to get familliar with the windows API
 - [ ] list all Handles
 - [ ] do not show windows and background processes
 - [ ] better formatting
+
+<!-- 
+https://learn.microsoft.com/en-us/windows/win32/psapi/enumerating-all-processes
+https://learn.microsoft.com/en-us/windows/win32/api/psapi/nf-psapi-getmodulebasenamea
+https://learn.microsoft.com/en-us/windows/win32/api/Psapi/nf-psapi-enumprocesses
+https://learn.microsoft.com/en-us/windows/win32/api/psapi/nf-psapi-enumprocessmodules
+https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/printf-printf-l-wprintf-wprintf-l?view=msvc-170
+-->
