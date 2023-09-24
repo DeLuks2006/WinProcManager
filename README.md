@@ -4,3 +4,10 @@
 <h1 align="center"> <b>Windows Process Manager</b> </h1>
 
 Just a little project to get familliar with the windows API
+
+TODO:
+- [ ] list all pNames and their PID
+- [ ] make a TUI (optional)
+- [ ] list all Handles
+- [ ] do not show windows and background processes
+- [ ] better formatting
