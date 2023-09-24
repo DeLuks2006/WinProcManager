@@ -5,7 +5,7 @@
 
 Just a little project to get familliar with the windows API
 
-TODO:
+**TODO:**
 - [ ] list all pNames and their PID
 - [ ] make a TUI (optional)
 - [ ] list all Handles
