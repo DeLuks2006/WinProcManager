@@ -5,6 +5,8 @@
 
 Just a little project to get familliar with the windows API
 
+**Work In Progress!!**
+
 **TODO:**
 - [x] do not show windows processes
 - [ ] (WIP) list all pNames and their PID
