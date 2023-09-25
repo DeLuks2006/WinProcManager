@@ -6,11 +6,11 @@
 Just a little project to get familliar with the windows API
 
 **TODO:**
-- [ ] list all pNames and their PID
+- [x] do not show windows processes
+- [ ] (WIP) list all pNames and their PID
+- [ ] (WIP) better formatting
+- [ ] (WIP) list all Handles
 - [ ] make a TUI (optional)
-- [ ] list all Handles
-- [ ] do not show windows and background processes
-- [ ] better formatting
 
 <!-- 
 https://learn.microsoft.com/en-us/windows/win32/psapi/enumerating-all-processes
